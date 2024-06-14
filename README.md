@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Creative Developer</h3>
 
 <p align="center">
-  <a href="[https://badges.pufler.dev](https://github.com/sherryjutt932?tab=repositories)">
+  <a href="https://github.com/sherryjutt932?tab=repositories">
     <img src="https://badges.pufler.dev/repos/sherryjutt932" alt="Repos Badge" />
   </a>
-  <a href="[https://badges.pufler.dev](https://github.com/sherryjutt932)">
+  <a href="https://github.com/sherryjutt932">
     <img src="https://badges.pufler.dev/commits/yearly/sherryjutt932" alt="Commits Badge" />
   </a>
 </p>
