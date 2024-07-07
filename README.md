@@ -33,6 +33,7 @@ I'm a software Engineer working as a Full Stack Developer with 2+ years of exper
 - **Design**: Web animations, Figma, Photoshop, Illustrator
 
 ## Get In Touch
+- [sheharyarsaeed7@gmail.com](mailto:sheharyarsaeed7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sheharyarsaeed932/)
 - [Facebook](https://www.facebook.com/profile.php?id=100009704040257)
 - [Instagram](https://www.instagram.com/sherry_jutt42/)
