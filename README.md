@@ -40,6 +40,12 @@ I'm a software Engineer working as a Full Stack Developer with 2+ years of exper
 - [Codepen](https://codepen.io/sherryjutt932)
 - [Behance](https://www.behance.net/sheharyarsaeed1)
 
+<a href="https://www.instagram.com/sherry_jutt42/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" alt="Commits Badge" />
+  </a>
+  
+![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)
+
 ## Thanks for visiting ⭐️
 My GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
