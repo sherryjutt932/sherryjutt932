@@ -42,7 +42,6 @@ I'm a software Engineer working as a Full Stack Developer with 2+ years of exper
 - [Codepen](https://codepen.io/sherryjutt932)
 - [Behance](https://www.behance.net/sheharyarsaeed1)
 -->
-
 <!--
 - [![Email - sheharyarsaeed7@gmail.com](https://img.shields.io/badge/Email-sheharyarsaeed7@gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222)](mailto:sheharyarsaeed7@gmail.com)
 - [![Linkedin - sheharyarsaeed932](https://img.shields.io/badge/Linkedin-sheharyarsaeed932-333?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=222)](https://www.linkedin.com/in/sheharyarsaeed932/)
