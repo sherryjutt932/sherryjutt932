@@ -28,10 +28,10 @@ I'm a software Engineer working as a Full Stack Developer with 2+ years of exper
 - ✅Complete Frontends
 
 ## My Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS, C#, C++, Java, Python
-- **Frameworks & Libraries**: React, Next.js, Vite, Astro, GSAP, Framer Motion
-- **Tools & Platforms**: VSCode, Git, VS, SQL server, postman, notion
-- **Design**: Web animations, Figma, Photoshop, Illustrator
+- **Languages**: JavaScript, TypeScript, HTML, CSS, C#, C++, Java, Python.
+- **Frameworks & Libraries**: React, Next.js, Vite, Astro, GSAP, Framer Motion.
+- **Tools & Platforms**: VSCode, Git, VS, SQL server, postman, notion.
+- **Design**: Web animations, Figma, Photoshop, Illustrator.
 
 ## Get In Touch
 <!--
