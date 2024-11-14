@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/sheharyarsaeed.vercel.app-0d1117?style=for-the-badge&logo=google&logoColor=white&labelColor=010409)](https://sheharyarsaeed.vercel.app/)<br/>
 
 ## Bio
-I'm a software Engineer working as a Full Stack Developer with 2+ years of experience and 40+ stunning websites in my portfolio. Passionate about converting line of codes into seamless user experience. I provide my best to gain your trust and your satisfaction through my work. I'm the goto person for any website development and designing work.
+I'm a software Engineer working as a Creative Developer with 2+ years of experience and 40+ stunning websites in my portfolio. Passionate about converting line of codes into seamless user experience. I provide my best to gain your trust and your satisfaction through my work. I'm the goto person for any website development and designing work.
 ### I'm providing:
 
 - ✅Modern Agency Website
